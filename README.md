@@ -1,0 +1,2 @@
+# KitEmojiBundle
+symfony emoji bundle
